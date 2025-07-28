@@ -14,6 +14,7 @@ var mainState = {
 
         game.load.image('bird', 'assets/man.png');
         game.load.image('pipe', 'assets/ball.png');
+        game.load.image('catch', 'assets/catch.png');
         game.load.audio('jump', 'assets/tap.mp3');
     },
 
